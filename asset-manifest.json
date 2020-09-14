@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dataviz-heatmap-d3/static/css/main.ce4dfec0.chunk.css",
+    "main.js": "/dataviz-heatmap-d3/static/js/main.4ceac9ef.chunk.js",
+    "main.js.map": "/dataviz-heatmap-d3/static/js/main.4ceac9ef.chunk.js.map",
+    "runtime-main.js": "/dataviz-heatmap-d3/static/js/runtime-main.66c4c7e6.js",
+    "runtime-main.js.map": "/dataviz-heatmap-d3/static/js/runtime-main.66c4c7e6.js.map",
+    "static/js/2.39830880.chunk.js": "/dataviz-heatmap-d3/static/js/2.39830880.chunk.js",
+    "static/js/2.39830880.chunk.js.map": "/dataviz-heatmap-d3/static/js/2.39830880.chunk.js.map",
+    "index.html": "/dataviz-heatmap-d3/index.html",
+    "precache-manifest.f67d8939ac7a38c6741f6c31ec34e8b3.js": "/dataviz-heatmap-d3/precache-manifest.f67d8939ac7a38c6741f6c31ec34e8b3.js",
+    "service-worker.js": "/dataviz-heatmap-d3/service-worker.js",
+    "static/css/main.ce4dfec0.chunk.css.map": "/dataviz-heatmap-d3/static/css/main.ce4dfec0.chunk.css.map",
+    "static/js/2.39830880.chunk.js.LICENSE.txt": "/dataviz-heatmap-d3/static/js/2.39830880.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66c4c7e6.js",
+    "static/js/2.39830880.chunk.js",
+    "static/css/main.ce4dfec0.chunk.css",
+    "static/js/main.4ceac9ef.chunk.js"
+  ]
+}

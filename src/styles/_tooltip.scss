@@ -1,0 +1,12 @@
+@import 'variables';
+
+/* TOOLTIP */
+#tooltip, #tooltipLegend {
+  position: relative;
+  text-align: center;
+  width: 120px;
+  border: 1px solid $tooltip-border-color;
+  border-radius: 10px;
+  background: $tooltip-bg-border-color;
+  padding: 10px;
+}

@@ -1,0 +1,35 @@
+@import 'variables';
+@import 'title-and-legend';
+@import 'tooltip';
+
+/* MAIN */
+body {
+  background-color: $bg-color;
+  font-family: $main-font;
+}
+
+@mixin positioning ($position) {
+  top: $position;
+  left: $position;
+  -moz-transform: translateX(-$position) translateY(-$position);
+  -webkit-transform: translateX(-$position) translateY(-$position);
+  transform: translateX(-$position) translateY(-$position);
+}
+
+svg {
+  background-color: white;
+  position: absolute;
+  @include positioning(50%)
+}
+
+.graph {
+  width: 85%;
+}
+
+#xAxis-label, #yAxis-label {
+  fill: black;
+  text-anchor: middle;
+  font-size: $lg-font-size;
+}
+
+

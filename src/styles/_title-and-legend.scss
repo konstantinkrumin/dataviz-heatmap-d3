@@ -1,0 +1,14 @@
+@import 'variables';
+
+/* TITLE AND LEGEND */
+#title {
+  font-size: $lg-font-size;
+  font-weight: bold;
+}
+
+#description { font-size: $md-font-size; }
+
+.legend-rect, .cell:hover {
+  stroke: black;
+  stroke-width: 0.8;
+}
